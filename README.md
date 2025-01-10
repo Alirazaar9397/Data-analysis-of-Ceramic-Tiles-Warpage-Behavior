@@ -9,7 +9,7 @@ The "Tile Warpage behavior analysis report" is a tool, which aims to offer "Tile
 **Criteria based Tiles count Table:** The Matrix table reflects how much tiles fall under which criteria at different time intervals.
 
 ## Dataset used:
-https://github.com/Alirazaar9397/Data-analysis-of-Ceramic-Tiles-Warpage-Behavior
+https://github.com/Alirazaar9397/Data-analysis-of-Ceramic-Tiles-Warpage-Behavior.git
 
 
 ## Prerequisites
