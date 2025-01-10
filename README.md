@@ -1,7 +1,7 @@
 # Data-Analysis-Report-of-Ceramic-Tiles-Warpage-Behavior
 
 ## Overview
-The "Tile Warpage behavior analysis report" is a tool, made for Tile Industry i.e. "Stiles-HOH", which aims to offer "Wall tile behavior study" to understanding the Wall tile Warpage Behavior over the time. The report enables the production and marketing team to reduce the dealers complaints on the tile warpage behavior by sharing the recommendations with them based on this report.
+The "Tile Warpage behavior analysis report" is a tool, made for Tile Industry, which aims to offer "Wall tile behavior study" to understanding the Wall tile Warpage Behavior over the time. The report enables the production and marketing team to reduce the dealers complaints on the tile warpage behavior by sharing the recommendations with them based on this report.
 
 ## Key Features
 **Tile percentage visualization**: Pie charts depict the percentage of tiles across different criteria at various stages.
